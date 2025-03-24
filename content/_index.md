@@ -1,28 +1,22 @@
 +++
-# This title is used as the og:title on Hugo's internal
-# opengraph structured data template on the home page.
-# See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Hugo ʕ•ᴥ•ʔ Bear"
+title = "Home"
 +++
 
-# A match made in heaven
+*I want to remember, a lot.*
+The reason I say that is, that I often get this extremely great solutions and then I just forget them.  
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+For example, One time, I decided I would never dream of marrying a woman on the first instant we met and I had a pretty good reason for why I shouldn't do it. But for some reason, yesterday, I spend the whole day doing that mistake *(guilty😅)*.
+You see I had a solid reason, why I should not do that, but I just forgot.
 
-[Go to the original bear blog](https://bearblog.dev/).
+**I want to blog** because it helps me remember, why I decided to do somethings in my life.
+Blogging is awesome, because I can not only have my awesome solutions to myself, but I can share with you and know whether my solutions are right or not.
 
----
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+I often do this with my friend over the phone and we will have a blast of time talking about solutions to various relationship problems, money problems, education problems, workout problems, belief problems and much more. *(We simply overthink though 😂)*
+You will see all these things incorporated in the upcoming blogs.
 
-**Use this theme, and find out!**
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+You can tell your replies and opinions to me in my [instagram - @stewardrighteous](https://www.instagram.com/stewardrighteous)
+And I am happy to welcome you to 
+## *I want to blog!*
