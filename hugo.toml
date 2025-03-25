@@ -1,6 +1,6 @@
 baseURL = ""
 theme = 'hugo-bearblog'
-title = "I want to"
+title = "IWantTo.Blog"
 author = "Steward Righteous"
 copyright = "Copyright © 2025, Steward Righteous."
 languageCode = "en-US"
