@@ -6,10 +6,10 @@ title = "Home"
 The reason I say that is, that I often get this extremely great solutions and then I just forget them.  
 
 
-For example, One time, I decided I would never dream of marrying a woman on the first instant we met and I had a pretty good reason for why I shouldn't do it. But for some reason, yesterday, I spend the whole day doing that mistake *(guilty😅)*.
+For example, One time, I decided I would never dream of marrying a woman on the first instant we meet and I had a pretty good reason for why I shouldn't do it. But for some reason, I forget it often, and spend a heck lot of time doing that mistake *(weird...😅)*.
 You see I had a solid reason, why I should not do that, but I just forgot.
 
-**I want to blog** because it helps me remember, why I decided to do somethings in my life.
+**I want to blog** because it helps me remember, why I decided to do some things in my life in a particular way.
 Blogging is awesome, because I can not only have my awesome solutions to myself, but I can share with you and know whether my solutions are right or not.
 
 
